@@ -1,8 +1,8 @@
 body{
   text-align: center;
   font-family: open sans, sans-serif;
-  background-color: #e68ab4;
-  color: #780a41 ;
+  background-color: #8A71C9;
+  color: #FFFFFF;
   margin: 0;
 }
 
@@ -12,7 +12,7 @@ h1{
 }
 
 h2{
-  color: #5c3741;
+  color: #2A0074;
   font-size: 40px;
 }
 
@@ -30,12 +30,16 @@ img{
   width: 60%;
 }
 
-img:hover{
+.green-title{
+  color: #04FF9F;
+}
 
+.red-title{
+  color: #FF9E9E;
 }
 
 .yellow-title{
-  color: #945d0a;
+  color: #FFE36D;
 }
 
 section{
@@ -64,7 +68,7 @@ ul{
 }
 
 .menu-principal{
-  background-color:#8a516b;
+  background-color:#FF6CB5;
   height: 40px;
   max-width: 60%;
   margin: 0 auto;
